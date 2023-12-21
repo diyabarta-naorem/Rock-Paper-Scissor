@@ -1,4 +1,4 @@
-# Stone-Paper-Scissors
+# Rock-Paper-Scissors
 
 ### `Description:`
 This is a `Rock Paper Scissors` Mini Project, which is made using HTML, CSS and JavaScript.
