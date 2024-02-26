@@ -1,4 +1,5 @@
 # Rock-Paper-Scissors
+Deployed link - https://rock-paper-scissor-diya.netlify.app/
 
 ### `Description:`
 This is a `Rock Paper Scissors` Mini Project, which is made using HTML, CSS and JavaScript.
